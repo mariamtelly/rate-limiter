@@ -1,4 +1,3 @@
 .vscode/
 build
-config/
-docker-compose.yml
+config/rules.example.yaml
